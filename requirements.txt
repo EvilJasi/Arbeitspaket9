@@ -1,4 +1,4 @@
 ipywidgets
 matplotlib
 numpy
-voila
+voila>=0.1.8
